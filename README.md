@@ -1,2 +1,8 @@
-# nova-digital
-Nova-Digital Website 
+# Visual Claude
+A touch-optimized code editor with AI assistance.
+
+## Features
+- Syntax Highlighting
+- File Management
+- AI Assistant
+- Mobile-first design
